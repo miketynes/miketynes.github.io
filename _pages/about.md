@@ -14,4 +14,4 @@ I am a data scientist and software developer based in New York City. I am curren
 **Watch your step!** This site is under construction!
 
 
-![One pikachu, jackhammering away](/files/pikapika.gif)
+![One pikachu, jackhammering away](/images/pikapika.gif)
