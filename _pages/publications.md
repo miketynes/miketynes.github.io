@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+Full text publications are available on my [Research Gate](https://www.researchgate.net/profile/Michael_Tynes)
