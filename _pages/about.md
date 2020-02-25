@@ -14,4 +14,4 @@ I am a data scientist and software developer based in New York City. I am curren
 	*Watch your step!* This site is under construction!
 </Warning>
 
-![One pikachu, jackhammering away](https://miketynes.githhub.io/files/pikapika.gif)
+![One pikachu, jackhammering away](/files/pikapika.gif)
