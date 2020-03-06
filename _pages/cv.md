@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-A recent copy of my [professional resume](/files/TynesMichaelResume2020.03.04.pdf).
+A recent copy of my [professional resume](/files/TynesMichaelResume2020.03.06.pdf).
