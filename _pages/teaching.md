@@ -13,7 +13,7 @@ in their junior and senior years of chemistry studies at Fordham.
 I learned a ton from the class, both about chemistry and computing. 
 I was not the TA, but as the resident CS grad student there were a few times I got to share my love of computing with the class. 
 
-Here are a few slide decks I put together. Citations and additional commentary can be found in the presenter notes.
+Here are a few slide decks I put together. Citations and additional commentary can be found in the speaker notes (accessible through the gear ⚙️ icon).
 
 ### Very brief intro to RL 
 
